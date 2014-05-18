@@ -1,0 +1,14 @@
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\x64\SQLite.Interop.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\x86\SQLite.Interop.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DALFactory.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DALFactory.pdb
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DALSqlite.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DataModel.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.IDAL.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\System.Data.SQLite.dll
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DALSqlite.pdb
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.DataModel.pdb
+D:\SVNChina\carsinfo\Src\DALFactory\bin\Debug\CarsInfo.IDAL.pdb
+D:\SVNChina\carsinfo\Src\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\SVNChina\carsinfo\Src\DALFactory\obj\Debug\CarsInfo.DALFactory.dll
+D:\SVNChina\carsinfo\Src\DALFactory\obj\Debug\CarsInfo.DALFactory.pdb

@@ -1,0 +1,4 @@
+D:\SVNChina\carsinfo\Src\ViewModel\bin\Debug\ViewModel.dll
+D:\SVNChina\carsinfo\Src\ViewModel\bin\Debug\ViewModel.pdb
+D:\SVNChina\carsinfo\Src\ViewModel\obj\Debug\ViewModel.dll
+D:\SVNChina\carsinfo\Src\ViewModel\obj\Debug\ViewModel.pdb

@@ -1,0 +1,4 @@
+D:\SVNChina\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.dll
+D:\SVNChina\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.pdb
+D:\SVNChina\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.dll
+D:\SVNChina\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.pdb

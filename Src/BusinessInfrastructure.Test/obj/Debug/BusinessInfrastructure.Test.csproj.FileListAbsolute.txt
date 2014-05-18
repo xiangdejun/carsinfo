@@ -1,0 +1,11 @@
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\BusinessInfrastructure.Test.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\BusinessInfrastructure.Test.pdb
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\Carsinfo.BusinessInfrastructure.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\nunit.framework.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\HTMLParser.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\Carsinfo.BusinessInfrastructure.pdb
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\nunit.framework.xml
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\bin\Debug\HTMLParser.pdb
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\obj\Debug\BusinessInfrastructure.Test.csprojResolveAssemblyReference.cache
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\obj\Debug\BusinessInfrastructure.Test.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure.Test\obj\Debug\BusinessInfrastructure.Test.pdb

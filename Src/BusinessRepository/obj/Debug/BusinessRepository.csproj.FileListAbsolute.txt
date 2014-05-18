@@ -1,0 +1,16 @@
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\x64\SQLite.Interop.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\x86\SQLite.Interop.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.BusinessRepository.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.BusinessRepository.pdb
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DALFactory.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DALSqlite.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DataModel.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.IDAL.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\System.Data.SQLite.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DALFactory.pdb
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DALSqlite.pdb
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.DataModel.pdb
+D:\SVNChina\carsinfo\Src\BusinessRepository\bin\Debug\CarsInfo.IDAL.pdb
+D:\SVNChina\carsinfo\Src\BusinessRepository\obj\Debug\BusinessRepository.csprojResolveAssemblyReference.cache
+D:\SVNChina\carsinfo\Src\BusinessRepository\obj\Debug\CarsInfo.BusinessRepository.dll
+D:\SVNChina\carsinfo\Src\BusinessRepository\obj\Debug\CarsInfo.BusinessRepository.pdb

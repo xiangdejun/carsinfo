@@ -1,0 +1,9 @@
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\BusinessModel.Test.dll
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\BusinessModel.Test.pdb
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\CarsInfo.BusinessModel.dll
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\nunit.framework.dll
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\CarsInfo.BusinessModel.pdb
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\bin\Debug\nunit.framework.xml
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\obj\Debug\BusinessModel.Test.csprojResolveAssemblyReference.cache
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\obj\Debug\BusinessModel.Test.dll
+D:\SVNChina\carsinfo\Src\BusinessModel.Test\obj\Debug\BusinessModel.Test.pdb

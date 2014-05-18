@@ -1,0 +1,9 @@
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\Carsinfo.BusinessInfrastructure.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\Carsinfo.BusinessInfrastructure.pdb
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\HTMLParser.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\HTMLParser.pdb
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\BusinessInfrastructure.csprojResolveAssemblyReference.cache
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.dll
+D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.pdb

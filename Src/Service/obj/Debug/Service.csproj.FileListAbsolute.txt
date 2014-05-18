@@ -1,0 +1,5 @@
+D:\SVNChina\carsinfo\Src\Service\bin\Debug\Service.dll
+D:\SVNChina\carsinfo\Src\Service\bin\Debug\Service.pdb
+D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.dll
+D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.pdb
+D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
