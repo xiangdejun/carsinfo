@@ -52,6 +52,14 @@
       <Project>{fb08fd0d-9482-4399-bee1-205f08e3ac47}</Project>
       <Name>BusinessInfrastructure</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DALSqlite\DALSqlite.csproj">
+      <Project>{851db74e-3405-46a7-a453-6ba996a4ed22}</Project>
+      <Name>DALSqlite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataEntitySqlite\DataEntitySqlite.csproj">
+      <Project>{b51ab4f5-53a5-4549-8878-07f0e653b3e5}</Project>
+      <Name>DataEntitySqlite</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

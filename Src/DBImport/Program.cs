@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Carsinfo.BusinessInfrastructure_ns;
+using CarsInfo.DALSqlite_ns;
 using HtmlAnalyzer_ns;
+using CarsInfo.DataEntitySqlite;
+
 
 namespace DBImport
 {
@@ -25,32 +29,14 @@ namespace DBImport
                 InsertBrand(lst);
                 InsertFactory(lst);
                 InsertModel(lst);
-                InsertParamGroup(lst);
+                //InsertParamGroup(lst);
+                //InsertParams(lst);
                 break;
             }
         }
 
         static void InsertBrand(List<JsonObj> lst)
         {
-
-
-
-
-            //var list = new List<JsonParamValue>();
-            //JsonParamValue xValue;
-            //try
-            //{
-            //    foreach (var obj in brand)
-            //    {
-            //        xValue = obj;
-
-            //        list.Add(obj);
-            //    }
-            //}
-            //catch (Exception ex)
-            //{
-            //    throw;
-            //}
 
         }
 
@@ -71,12 +57,58 @@ namespace DBImport
                     (from param in lst[0].result.paramtypeitems
                         //from paramGroup in param.paramitems
                         select param.Name)
+                    .Union
+                    (from config in lst[1].result.configtypeitems
+                        //from configGroup in config.configitems
+                        select config.Name)
+                ).ToList<string>();
+
+            SqliteHelper.InsertParamGroup(groupNames);
+        }
+
+        private static void InsertParams(List<JsonObj> lst)
+        {
+            var dtGroup = SqliteHelper.GetTable("paramgroup");
+            //dtGroup.AsEnumerable().Where()
+
+            var paramNames =
+                (
+                    (from param in lst[0].result.paramtypeitems
+                        from paramGroup in param.paramitems
+                        select
+                            new
+                            param
+                            {
+                                pgid = 
+                                    int.Parse(
+                                        dtGroup.AsEnumerable()
+                                            .FirstOrDefault(row => row["pgname"].ToString().Equals(param.Name))["pgid"]
+                                            .ToString()),
+                                pname = paramGroup.name
+
+                            })
                         .Union
                         (from config in lst[1].result.configtypeitems
-                            //from configGroup in config.configitems
-                            select config.Name)
-                    ).ToList();
+                            from configGroup in config.configitems
+                            select
+                                new
+                                param
+                                {
+                                    pgid = 
+                                        int.Parse(
+                                            dtGroup.AsEnumerable()
+                                                .FirstOrDefault(row => row["pgname"].ToString().Equals(config.Name))[
+                                                    "pgid"].ToString()),
+                                    pname = configGroup.name
+
+                                })
+                    ); //.ToDictionary(p=>p.paramname, p=>p.groupid);
+
+            //var dict = paramNames.ToDictionary(p => p.groupid, p => p.paramname);
+            SqliteHelper.InsertParams(paramNames);
         }
 
     }
+
+
 }
