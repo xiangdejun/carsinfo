@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using System.Linq;
 using Carsinfo.BusinessInfrastructure_ns;
 using CarsInfo.DALSqlite_ns;
-using HtmlAnalyzer_ns;
 using CarsInfo.DataEntitySqlite;
+using HtmlAnalyzer_ns;
 
 
 namespace DBImport
@@ -29,6 +26,7 @@ namespace DBImport
                 InsertBrand(lst);
                 InsertFactory(lst);
                 InsertModel(lst);
+                InsertClass(lst);
                 //InsertParamGroup(lst);
                 //InsertParams(lst);
                 break;
@@ -37,7 +35,6 @@ namespace DBImport
 
         static void InsertBrand(List<JsonObj> lst)
         {
-
         }
 
         static void InsertFactory(List<JsonObj> lst)
@@ -48,6 +45,14 @@ namespace DBImport
         static void InsertModel(List<JsonObj> lst)
         {
             
+        }
+
+        static void InsertClass(List<JsonObj> lst)
+        {
+            var classes =
+                (from p in lst[0].result.paramtypeitems[0].paramitems[3].valueitems
+                    select p.value).ToList();
+
         }
 
         private static void InsertParamGroup(List<JsonObj> lst)

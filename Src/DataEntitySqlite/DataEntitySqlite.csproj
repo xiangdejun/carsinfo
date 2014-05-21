@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="carclass.cs" />
+    <Compile Include="model.cs" />
     <Compile Include="param.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
