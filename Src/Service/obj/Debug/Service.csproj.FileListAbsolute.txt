@@ -3,3 +3,8 @@ D:\SVNChina\carsinfo\Src\Service\bin\Debug\Service.pdb
 D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.dll
 D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.pdb
 D:\SVNChina\carsinfo\Src\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\Service\bin\Debug\Service.dll
+D:\我的文档\GitHub\carsinfo\Src\Service\bin\Debug\Service.pdb
+D:\我的文档\GitHub\carsinfo\Src\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\Service\obj\Debug\Service.dll
+D:\我的文档\GitHub\carsinfo\Src\Service\obj\Debug\Service.pdb

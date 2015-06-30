@@ -3,3 +3,8 @@ D:\SVNChina\carsinfo\Src\DataModel\bin\Debug\CarsInfo.DataModel.pdb
 D:\SVNChina\carsinfo\Src\DataModel\obj\Debug\CarsInfo.DataModel.dll
 D:\SVNChina\carsinfo\Src\DataModel\obj\Debug\CarsInfo.DataModel.pdb
 D:\SVNChina\carsinfo\Src\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\DataModel\bin\Debug\CarsInfo.DataModel.dll
+D:\我的文档\GitHub\carsinfo\Src\DataModel\bin\Debug\CarsInfo.DataModel.pdb
+D:\我的文档\GitHub\carsinfo\Src\DataModel\obj\Debug\CarsInfo.DataModel.dll
+D:\我的文档\GitHub\carsinfo\Src\DataModel\obj\Debug\CarsInfo.DataModel.pdb
+D:\我的文档\GitHub\carsinfo\Src\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache

@@ -2,3 +2,8 @@ D:\SVNChina\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.dll
 D:\SVNChina\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.pdb
 D:\SVNChina\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.dll
 D:\SVNChina\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.pdb
+D:\我的文档\GitHub\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.dll
+D:\我的文档\GitHub\carsinfo\Src\HTMLParser\bin\Debug\HTMLParser.pdb
+D:\我的文档\GitHub\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.dll
+D:\我的文档\GitHub\carsinfo\Src\HTMLParser\obj\Debug\HTMLParser.pdb

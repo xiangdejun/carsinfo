@@ -1,0 +1,5 @@
+D:\我的文档\GitHub\carsinfo\Src\DataEntitySqlite\bin\Debug\CarsInfo.DataEntitySqlite.dll
+D:\我的文档\GitHub\carsinfo\Src\DataEntitySqlite\bin\Debug\CarsInfo.DataEntitySqlite.pdb
+D:\我的文档\GitHub\carsinfo\Src\DataEntitySqlite\obj\Debug\CarsInfo.DataEntitySqlite.dll
+D:\我的文档\GitHub\carsinfo\Src\DataEntitySqlite\obj\Debug\CarsInfo.DataEntitySqlite.pdb
+D:\我的文档\GitHub\carsinfo\Src\DataEntitySqlite\obj\Debug\DataEntitySqlite.csprojResolveAssemblyReference.cache

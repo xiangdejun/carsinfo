@@ -15,6 +15,7 @@ namespace CarsInfo.DALSqlite_ns
 
         private static SQLiteConnection connection;
 
+
         static SqliteHelper()
         {
             connection = new SQLiteConnection(ConnString);
@@ -86,7 +87,56 @@ namespace CarsInfo.DALSqlite_ns
             }
         }
 
+        public static void InsertBrand(List<string> list)
+        {
+            var command = new SQLiteCommand();
+            var strBuilder = new StringBuilder();
+            foreach (var item in list)
+            {
+                strBuilder.Append("Insert into brand values(null, '" + item + "');");
+            }
+            command.CommandText = strBuilder.ToString();
 
+            ExcuteInsert(command);
+        }
+
+        public static void InsertFactory(IEnumerable<factory> factories)
+        {
+            var command = new SQLiteCommand();
+            var strBuilder = new StringBuilder();
+            foreach (var item in factories)
+            {
+                strBuilder.Append("Insert into factory values(null, '" + item.fname + "', " + item.bid + ");");
+            }
+            command.CommandText = strBuilder.ToString();
+
+            ExcuteInsert(command);
+        }
+
+        public static void InsertSeries(IEnumerable<series> carseries)
+        {
+            var command = new SQLiteCommand();
+            var strBuilder = new StringBuilder();
+            foreach (var item in carseries)
+            {
+                strBuilder.Append("Insert into series values(null, '" + item.sname + "', " + item.fid + " , " + item.classid + ", '" + item.price + "');");
+            }
+            command.CommandText = strBuilder.ToString();
+
+            ExcuteInsert(command);
+        }
+        public static void InsertCar(IEnumerable<car> cars)
+        {
+            var command = new SQLiteCommand();
+            var strBuilder = new StringBuilder();
+            foreach (var item in cars)
+            {
+                strBuilder.Append("Insert into car values(null, '" + item.cname + "', " + item.sid + ");");
+            }
+            command.CommandText = strBuilder.ToString();
+
+            ExcuteInsert(command);
+        }
     }
 
     //public struct Param

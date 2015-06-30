@@ -54,6 +54,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataModel\DataModel.csproj">
+      <Project>{7640aa64-b141-4e62-a06d-1514f24d4922}</Project>
+      <Name>DataModel</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HTMLParser\HTMLParser.csproj">
       <Project>{4AA08C9D-1DCC-4464-BBC3-D5A19161A327}</Project>
       <Name>HTMLParser</Name>

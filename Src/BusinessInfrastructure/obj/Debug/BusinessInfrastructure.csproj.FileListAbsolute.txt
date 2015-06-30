@@ -7,3 +7,14 @@ D:\SVNChina\carsinfo\Src\BusinessInfrastructure\bin\Debug\Newtonsoft.Json.xml
 D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\BusinessInfrastructure.csprojResolveAssemblyReference.cache
 D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.dll
 D:\SVNChina\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.pdb
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\obj\Debug\BusinessInfrastructure.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\Carsinfo.BusinessInfrastructure.dll
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\Carsinfo.BusinessInfrastructure.pdb
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\HTMLParser.dll
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\HTMLParser.pdb
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.dll
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\obj\Debug\Carsinfo.BusinessInfrastructure.pdb
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\CarsInfo.DataModel.dll
+D:\我的文档\GitHub\carsinfo\Src\BusinessInfrastructure\bin\Debug\CarsInfo.DataModel.pdb

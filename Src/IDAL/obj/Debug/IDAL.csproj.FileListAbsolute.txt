@@ -3,3 +3,8 @@ D:\SVNChina\carsinfo\Src\IDAL\bin\Debug\CarsInfo.IDAL.pdb
 D:\SVNChina\carsinfo\Src\IDAL\obj\Debug\CarsInfo.IDAL.dll
 D:\SVNChina\carsinfo\Src\IDAL\obj\Debug\CarsInfo.IDAL.pdb
 D:\SVNChina\carsinfo\Src\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\IDAL\bin\Debug\CarsInfo.IDAL.dll
+D:\我的文档\GitHub\carsinfo\Src\IDAL\bin\Debug\CarsInfo.IDAL.pdb
+D:\我的文档\GitHub\carsinfo\Src\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\我的文档\GitHub\carsinfo\Src\IDAL\obj\Debug\CarsInfo.IDAL.dll
+D:\我的文档\GitHub\carsinfo\Src\IDAL\obj\Debug\CarsInfo.IDAL.pdb

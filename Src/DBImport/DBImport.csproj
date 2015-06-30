@@ -60,6 +60,10 @@
       <Project>{b51ab4f5-53a5-4549-8878-07f0e653b3e5}</Project>
       <Name>DataEntitySqlite</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataModel\DataModel.csproj">
+      <Project>{7640aa64-b141-4e62-a06d-1514f24d4922}</Project>
+      <Name>DataModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
